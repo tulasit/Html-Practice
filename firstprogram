@@ -5,7 +5,7 @@
 	<title>Hello  This is Tulasi</title>
 </head>
 <body style="color:red;background-color:pink;">
-         <p style="color:red;background-color:black ;" >Hello,I  would to start  </p>
+         <p style="color:red;background-color:black ;span style=color:red"; >Hello,I  would to start  </p>
          <a href="https://www.google.com">Click to here to open google </a><!-- Anchor tag -->
          <br><hr>
          <a href="https://www.youtube.com">Click to here to open youtube </a>
