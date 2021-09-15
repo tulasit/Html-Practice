@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Hello Tulasi,Do you use short code for Sublime</title>
+</head>
+<body style="color:red;background-color:pink;">
+         <p style="color:red;background-color:black ;" >Hello I use this tag  by press html </p>
+         <a href="https://www.google.com">Click to here to open google </a>
+         <br><hr>
+         <a href="https://www.youtube.com">Click to here to open youtube </a>
+         <br><hr>
+         <a href="https://www.facebook.com">Click to here to open facebook</a>
+           <!-- this is comment line sign-->
+</body>
+</html>
